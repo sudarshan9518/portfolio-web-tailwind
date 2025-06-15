@@ -1,4 +1,4 @@
-# portfolio-website-design-2
+# portfolio-website-design
 🚀 Portfolio Website
 A modern, responsive portfolio website built with Tailwind CSS for styling and JavaScript for dynamic time updates.
 
